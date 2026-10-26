@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "author": "Rhidham Garg",
+  "homepage": "https://sable-fintech.vercel.app/",
   "description": "Sable Fintech Platform - Liquid-Glass Digital Banking Experience crafted by Rhidham Garg",
   "type": "module",
   "scripts": {

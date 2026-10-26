@@ -5,6 +5,15 @@
   <p><strong>Awwwards-caliber digital banking experience engineered with liquid-glass aesthetics, momentum inertia scrolling, interactive 3D physics, and a streamlined multi-step onboarding journey.</strong></p>
 
   <p>
+    <a href="https://sable-fintech.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/LIVE%20DEMO-sable--fintech.vercel.app-10ACA2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+    </a>
+  </p>
+  <p>
+    🌐 <strong>Live Demo:</strong> <a href="https://sable-fintech.vercel.app/"><strong>https://sable-fintech.vercel.app/</strong></a>
+  </p>
+
+  <p>
     <img src="https://img.shields.io/badge/React-19.3.1-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19" />
     <img src="https://img.shields.io/badge/TypeScript-6.0-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/Vite-8.3-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
