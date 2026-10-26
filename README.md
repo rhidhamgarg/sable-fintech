@@ -131,7 +131,7 @@ figma-try/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/sable-fintech.git
+git clone https://github.com/rhidhamgarg/sable-fintech.git
 cd sable-fintech
 ```
 
@@ -215,7 +215,7 @@ npm run preview
 
 Crafted with passion and precision by **Rhidham Garg**  
 - **Role**: UI/UX Architecture, Liquid-Glass Design System, 3D Physics & Full-Stack Frontend Engineering.
-- **Repository**: [Sable Fintech Platform](https://github.com/your-username/sable-fintech)
+- **Repository**: [Sable Fintech Platform](https://github.com/rhidhamgarg/sable-fintech)
 
 ---
 
